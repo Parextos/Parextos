@@ -5,7 +5,7 @@
 - 📫 How to reach me, I will probably not answer you =/.
 - 🤨 Why you checking my profile?
 - 🧐 If something I said offended you I probably didn't do it on that purpose.
-- 😁 Yeah I used to default read me.
+- 😁 Yeah I used the default read me.
 <!---
 Parextos/Parextos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Wow I am special 😁.
